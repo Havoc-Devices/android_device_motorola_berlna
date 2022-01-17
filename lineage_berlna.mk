@@ -27,7 +27,7 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 PRODUCT_NAME := lineage_berlna
 PRODUCT_DEVICE := berlna
 PRODUCT_MANUFACTURER := motorola
-PRODUCT_BRAND := motorola
+PRODUCT_BRAND := Motorola
 PRODUCT_MODEL := motorola edge (2021)
 
 PRODUCT_GMS_CLIENTID_BASE := android-motorola
